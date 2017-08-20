@@ -1,0 +1,35 @@
+										Homework 01
+
+1. software not delivered on time, within budget, fault free, or meeting it's clients needs.
+
+2. the software life cycle includes post-delivery maintanence and eventually retiring the software, while
+	the development cycle ends with the software being delivered to the clients
+	
+3. perfective maintanence: A businessman uses a calculator app and concludes that it should be able to
+	compute complex problems and the software developer adds that functionality.
+   adaptive maintanence: A company switches from Windows computers to Macs and their custom software
+	has to be made compatible with the Mac OS
+	
+4. Once a piece of hardware has been built and released, any faults in it cannot be fixed and maintanence
+	is up to the owner. Once a piece of software is released, any faults can be fixed with updates and 
+	over time it will become fault free.
+	
+5. Because so many bugs are found and fixed prior to implementation, a few manage to slip by into the 
+	finished product.
+	
+6. Software Engineering is a very meticulous practice that requires planning, testing, and documentation
+	at every phase.
+	
+7. Structured programming techniques provide the structure neccessary for object-oriented programming
+
+8. It is more important to interact frequently with the users because they can tell the developer what
+	functionality to add or improve and what  bugs to fix.
+	
+9. Learning new development tools as they are released
+
+10. The Cathedral and the Bazaar by Eric Steven Raymond is an imformative narrative of his discovery 
+	of the Bazaar style of software development. It brought a highly effictively style of development 
+	to the public eye and helped spark a change in the industry. This essay gives credit to the revolutionary
+	developer Linus Torvalds, the creator of Linux. Raymond showed how outdated and inefficent the cathedral
+	style was compared to the bazaar style. This convinced the tech giant Netscape to give the baazar style 
+	a try.
